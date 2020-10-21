@@ -1,0 +1,89 @@
+{
+  "providerName": "The Really Useful Information Company",
+  "lastUpdated": "2020-10-21T18:57:28+00:00",    //*andy note: this is the date format
+  "language": "en",
+  "movies": [],
+  "series": [],
+  "shortFormVideos": [
+    {
+      "id": "1234",  //*andy note: I tend to use 4 digit numbers - any numerical ID format should work
+      "title": "VIDEO TITLE 1",
+      "content": {
+        "dateAdded": "YYYY-MM-DDTHH:MM:SS+00:00",
+        "videos": [
+          {
+            "url": "URL.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": MM  //*andy note: duration in minutes
+      },
+      "genres": [
+        "educational",
+        "documentary"
+      ],
+      "thumbnail": "URL.jpg",
+      "releaseDate": "YYYY-MM-DDTHH:MM:SS+00:00",
+      "shortDescription": "DESCRIPTION SYNOPSIS",
+      "longDescription": "DESCRIPTION DETALED",
+      "tags": [
+        "documentary",   
+        "educational"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    },
+    {
+      "id": "2234",
+      "title": "VIDEO TITLE 2",
+      "content": {
+        "dateAdded": "YYYY-MM-DDTHH:MM:SS+00:00",
+        "videos": [
+          {
+            "url": "URL.mp4",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ],
+        "duration": 21
+      },
+      "genres": [
+        "educational",
+        "documentary"
+      ],
+      "thumbnail": "URL.jpg",
+      "releaseDate": "YYYY-MM-DDTHH:MM:SS+00:00",
+      "shortDescription": "DESCRIPTION SYNOPSIS",
+      "longDescription": "DESCRIPTION DETALED",
+      "tags": [
+        "educational",
+        "documentary"
+      ],
+      "credits": null,
+      "rating": null,
+      "externalIds": null
+    }
+  ],
+  "tvSpecials": [],
+  "categories": [],
+  "playlists": [
+    {
+      "name": "PlaylistName1",
+      "itemIds": [
+        "1234",
+        "2234"
+      ]
+    },
+    {
+      "name": "PlaylistName2",
+      "itemIds": [
+        "1234",
+        "2234"
+      ]
+    }
+  ]
+}
