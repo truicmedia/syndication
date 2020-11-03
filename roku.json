@@ -12,7 +12,7 @@
         "dateAdded": "2020-11-02T18:57:28+00:00",
         "videos": [
           {
-            "url": "URL.mp4",
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/fc35e5b3b017b980209a75e2b49f944a8d2107834870f80e601c995940e50ecd/t/5fa18d7ff70d0b04008e4b90/1351620000001-000001.mp4",
             "quality": "HD",
             "videoType": "MP4",
             "bitrate": null
@@ -43,7 +43,7 @@
         "dateAdded": "2020-11-02T18:57:28+00:00",
         "videos": [
           {
-            "url": "URL.mp4",
+            "url": "https://s3.amazonaws.com/content-bundles/production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e/fc35e5b3b017b980209a75e2b49f944a8d2107834870f80e601c995940e50ecd/t/5fa18dd1ddd602040053d6b3/1351620000001-000001.mp4",
             "quality": "HD",
             "videoType": "MP4",
             "bitrate": null
