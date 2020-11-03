@@ -1,15 +1,15 @@
 {
   "providerName": "The Really Useful Information Company",
-  "lastUpdated": "2020-10-21T18:57:28+00:00",    //*andy note: this is the date format
+  "lastUpdated": "2020-11-02T18:57:28+00:00",    
   "language": "en",
   "movies": [],
   "series": [],
   "shortFormVideos": [
     {
-      "id": "1234",  //*andy note: I tend to use 4 digit numbers - any numerical ID format should work
-      "title": "VIDEO TITLE 1",
+      "id": "1234",  
+      "title": "Recession Proof Business Ideas",
       "content": {
-        "dateAdded": "YYYY-MM-DDTHH:MM:SS+00:00",
+        "dateAdded": "2020-11-02T18:57:28+00:00",
         "videos": [
           {
             "url": "URL.mp4",
@@ -18,16 +18,16 @@
             "bitrate": null
           }
         ],
-        "duration": MM  //*andy note: duration in minutes
+        "duration": 21  
       },
       "genres": [
         "educational",
         "documentary"
       ],
-      "thumbnail": "URL.jpg",
-      "releaseDate": "YYYY-MM-DDTHH:MM:SS+00:00",
-      "shortDescription": "DESCRIPTION SYNOPSIS",
-      "longDescription": "DESCRIPTION DETALED",
+      "thumbnail": "https://img.youtube.com/vi/9p4XDQr4Xs4/maxresdefault.jpg",
+      "releaseDate": "2020-11-02T18:57:28+00:00",
+      "shortDescription": "Recession Proof Business Ideas. Starting a business during a recession can be an amazing opportunity.",
+      "longDescription": "Recession Proof Business Ideas. Starting a business during a recession can be an amazing opportunity to build influence when other businesses are scared to make any moves. These five recession-proof business ideas have held fast through tough economic times. In this video, we’ll talk about how businesses in the past have survived recessions and how you could apply and diversify those ideas to the present-day. ",
       "tags": [
         "documentary",   
         "educational"
@@ -38,9 +38,9 @@
     },
     {
       "id": "2234",
-      "title": "VIDEO TITLE 2",
+      "title": "What Is an LLC?",
       "content": {
-        "dateAdded": "YYYY-MM-DDTHH:MM:SS+00:00",
+        "dateAdded": "2020-11-02T18:57:28+00:00",
         "videos": [
           {
             "url": "URL.mp4",
@@ -55,10 +55,10 @@
         "educational",
         "documentary"
       ],
-      "thumbnail": "URL.jpg",
-      "releaseDate": "YYYY-MM-DDTHH:MM:SS+00:00",
-      "shortDescription": "DESCRIPTION SYNOPSIS",
-      "longDescription": "DESCRIPTION DETALED",
+      "thumbnail": "https://img.youtube.com/vi/bnAQ8MTxKhY/maxresdefault.jpg",
+      "releaseDate": "2020-11-02T18:57:28+00:00",
+      "shortDescription": "What is an LLC and why is it so useful?  LLC stands for Limited Liability Company, it is one of the most popular business structures and helps with Personal Asset Protection.",
+      "longDescription": "What is an LLC and why is it so useful?  LLC stands for Limited Liability Company, it is one of the most popular business structures and helps with Personal Asset Protection.",
       "tags": [
         "educational",
         "documentary"
@@ -72,14 +72,14 @@
   "categories": [],
   "playlists": [
     {
-      "name": "PlaylistName1",
+      "name": "Guides",
       "itemIds": [
         "1234",
         "2234"
       ]
     },
     {
-      "name": "PlaylistName2",
+      "name": "Resources",
       "itemIds": [
         "1234",
         "2234"
